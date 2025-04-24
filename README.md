@@ -1,7 +1,8 @@
-Stopwatch web app
+# Stopwatch w/ React
 
--A very simple stopwatch webapp with REACT and TailwindCSS for styling
+A simple stopwatch built with **React jsx** and **Tailwind CSS**. 
 
--Theme changes to light or dark mode depending on client's theme settings
+It automatically switches between light and dark themes based on your device settings.
+
 
 Link: https://renelikescats.github.io/stopwatch-app/
